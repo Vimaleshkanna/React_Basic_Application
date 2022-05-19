@@ -1,0 +1,54 @@
+.screen-row {
+  margin-bottom: 10px;
+}
+.screen-text {
+  width: 66%;
+  height: 54px;
+  margin-top: 12px;
+  border: none;
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  background-color: azure;
+  outline: none;
+  box-shadow: inset 1px -3px 6px -1px darkgrey;
+}
+
+.btn {
+  width: 17%;
+  height: 64px;
+  border-radius: 50%;
+  box-shadow: 0 0 1px 0 rgb(253, 251, 251);
+}
+
+.button-row1 {
+  background-color: aqua;
+}
+/* .button-row2 {
+  background-color: aqua;
+}
+.button-row3 {
+  background-color: aqua;
+}
+.button-row4 {
+  background-color: aqua;
+}
+.button-row5 {
+  background-color: aqua;
+} */
+.button-column {
+  background-color: rgb(19, 121, 189);
+  color: white;
+}
+.button-delete {
+  background-color: rgb(238, 65, 65);
+  color: white;
+}
+
+.darkMode {
+  margin-left: 75%;
+  height: 20px;
+  /* margin-right: 0; */
+  padding: 10px;
+  font-style: oblique;
+  font-weight: 700;
+}

@@ -1,0 +1,22 @@
+.calculator {
+  text-align: center;
+  margin: 10px auto;
+  width: 37%;
+  height: 531px;
+  box-shadow: 1px 1px 2px 1px grey;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.btnGroup {
+  margin-bottom: 10px;
+}
+.btnGroupLast {
+  margin-bottom: 10px;
+}
+@media only screen and (max-width: 430px) {
+  .calculator {
+    width: 100%;
+    box-shadow: none;
+  }
+}

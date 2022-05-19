@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "pradeep",
+      "username": "pradeep",
+      "password": "Pradeep",
+      "password2": "Pradeep",
+      "id": 1
+    },
+    {
+      "name": "dharma",
+      "username": "dharma",
+      "password": "dharma",
+      "password2": "dharma",
+      "id": 2
+    },
+    {
+      "name": "Vimalesh",
+      "username": "Vimalesh",
+      "password": "Vimalesh",
+      "password2": "Vimalesh",
+      "id": 3
+    }
+  ]
+}
